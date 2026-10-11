@@ -1,4 +1,4 @@
-# Campus Resource Booking (SOEN 287 Project)
+# Campus Resource Booking 
 
 A web app for booking university resources such as computer labs, music practice rooms and classrooms. Students can sign up, log in and reserve time slots through a calendar, while admins get a dashboard with bookings, resources, users and booking trends.
 
