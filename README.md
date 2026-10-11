@@ -1,4 +1,4 @@
-# Campus Resource Booking 
+# Campus Resource Booking (Academic project)
 
 A web app for booking university resources such as computer labs, music practice rooms and classrooms. Students can sign up, log in and reserve time slots through a calendar, while admins get a dashboard with bookings, resources, users and booking trends.
 
